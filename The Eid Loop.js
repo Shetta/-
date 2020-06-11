@@ -19,5 +19,4 @@ while (i<10) {
         mohammed += eid;
         i++;
     }
-}      
-document.write(mohammed);
+} 
